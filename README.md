@@ -6,7 +6,7 @@ This program will connect to the bitcoin network using a hardcoded ip address 50
 
 The handshake will send a version payload to the node. The node will reply by sending back the version payload, and a verack payload. The program should will another verack back. 
 
-# Technologies 
+## Technologies 
 
 This was developed using Python 2.7
 
