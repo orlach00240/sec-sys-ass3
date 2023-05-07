@@ -18,6 +18,6 @@ $ git clone https://github.com/orlach00240/sec-sys-ass3.git
 
 In the terminal, cd into the folder where the file can be found and run
 
-$ python bitcoin.py
+$ python connection.py
 
 
